@@ -1,0 +1,54 @@
+.btn-primary {
+  background: #17a2b8;
+  border: 1px solid #ffffff;
+  padding: 15px 40px 15px 40px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background: #197280;
+  border: 1px solid #ffffff;
+}
+
+.navbar-brand {
+  font-family: "Poppins";
+  font-size: 26px;
+  font-weight: 700;
+  color: #2f281e;
+}
+
+.navbar-expand-lg {
+  background: #f8f9fa;
+  padding-left: 40px;
+  padding-right: 80px;
+}
+
+.navbar-nav {
+  font-family: "Poppins";
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link {
+  color: #2f281e;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background: #f8f9fa;
+}
+
+.jumbotron .display-4 {
+  font-family: "Poppins";
+  font-size: 35px;
+  font-weight: 700;
+  padding-top: 1rem;
+}
+
+.card-img,
+.card-img-bottom,
+.card-img-top1 {
+  width: 70%;
+  padding-left: 30%;
+}
